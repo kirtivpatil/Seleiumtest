@@ -1,8 +1,10 @@
 package grp1.Seleniumtest;
 
-public class test {
+public class test1 {
+
 	public static void main(String[] args) {
-		System.out.println("test");
+		// TODO Auto-generated method stub
+
 	}
 
 }
